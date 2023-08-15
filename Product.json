@@ -1,0 +1,23 @@
+{
+  "product":[
+    {
+    "id": "1",
+    "name": "RoadMaster 200",
+    "description": "A lightweight road bike for fast and efficient rides.",
+    "price": 100000
+    },
+    {
+    "id": "2",
+    "name": "Claud Butler",
+    "description": "Your speed companion.",
+    "price": 170000
+    },
+    {
+    "id": "3",
+    "name": "Felt-F50",
+    "description": "The hill grinder.",
+    "price": 150000
+    }
+    ]
+  }
+

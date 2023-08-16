@@ -1,23 +1,25 @@
 {
-  "product":[
+  "product": [
     {
-    "id": "1",
-    "name": "RoadMaster 200",
-    "description": "A lightweight road bike for fast and efficient rides.",
-    "price": 100000
+      "id": 2,
+      "Name": "Specialized-Allez",
+      "Price": 200000,
+      "Category": 1,
+      "Description": "You speed companion"
     },
     {
-    "id": "2",
-    "name": "Claud Butler",
-    "description": "Your speed companion.",
-    "price": 170000
+      "id": 3,
+      "Name": "ClaudButler",
+      "Price": 30000,
+      "Category": 1,
+      "Description": "The White widow"
     },
     {
-    "id": "3",
-    "name": "Felt-F50",
-    "description": "The hill grinder.",
-    "price": 150000
+      "id": 4,
+      "Name": "Carrerra",
+      "Price": 300000,
+      "Category": 0,
+      "Description": "The Vulcan"
     }
-    ]
-  }
-
+  ]
+}

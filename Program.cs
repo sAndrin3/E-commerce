@@ -1,12 +1,11 @@
-﻿using System;
+﻿using System.Threading.Tasks;
 
-namespace E_commerce
+class Program
 {
-    class Program
+    static async Task Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        Product product = new Product();
+
+        await ConsoleInterface.RunAsync(product);
     }
 }

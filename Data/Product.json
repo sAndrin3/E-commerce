@@ -20,6 +20,13 @@
       "Price": 300000,
       "Category": 0,
       "Description": "The Vulcan"
+    },
+    {
+      "id": 5,
+      "Name": "Mongoose",
+      "Price": 234456,
+      "Category": 2,
+      "Description": "The rocker"
     }
   ]
 }

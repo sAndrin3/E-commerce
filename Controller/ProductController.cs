@@ -5,8 +5,15 @@ public static class ConsoleInterface
 {
     public static async Task RunAsync(Product product)
     {
+        string message = $@"
+        
+▒█░░▒█ █▀▀ █░░ █▀▀ █▀▀█ █▀▄▀█ █▀▀ 
+▒█▒█▒█ █▀▀ █░░ █░░ █░░█ █░▀░█ █▀▀ 
+▒█▄▀▄█ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀▀ ▀░░░▀ ▀▀▀
+        ";
         while (true)
         {
+            Console.WriteLine(message);
             Console.WriteLine("Select an option:");
             Console.WriteLine("1. View Products");
             Console.WriteLine("2. View Product by ID");

@@ -27,6 +27,13 @@
       "Price": 234456,
       "Category": 2,
       "Description": "The rocker"
+    },
+    {
+      "id": 6,
+      "Name": "xyz",
+      "Price": 34,
+      "Category": 3,
+      "Description": "abcd"
     }
   ]
 }
